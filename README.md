@@ -35,4 +35,6 @@ Hi there! I'm an IT student in the process of learning about the "bug and code" 
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=stknguyn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
