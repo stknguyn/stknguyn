@@ -1,4 +1,4 @@
-# StkNguyn
+#:milky_way: StkNguyn
 ⠀⠀
 **`IT Student (Dev/DA/DS)`**
 
