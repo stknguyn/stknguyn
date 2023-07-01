@@ -21,7 +21,7 @@ Hi there! I'm an IT student in the process of learning about the "bug and code" 
 <br />
 ### Stats
 
-![Stknguyn's GitHub stats](https://github-readme-stats.vercel.app/api?stknguyn=anuraghazra&show_icons=true&theme=radical)
+![Stknguyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=stknguyn&show_icons=true&theme=radical)
 #
 
 ### :evergreen_tree: Github Steak
