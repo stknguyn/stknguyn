@@ -4,10 +4,8 @@
 
 Hi there! I'm an IT student in the process of learning about the "bug and code" world. This is my github page, which will mainly contain my assignments and projects during my studies and research. If you are interested in something, contact me via Facebook in below. 
 <br/>
-### :evergreen_tree: Github Steak
-[![GitHub Streak](https://streak-stats.demolab.com?user=stknguyn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
- <br>
-#
+
+
  ### :card_file_box: Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -21,3 +19,10 @@ Hi there! I'm an IT student in the process of learning about the "bug and code" 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stknguyn=anuraghazra&show_icons=true&theme=transparent)
+#
+### :evergreen_tree: Github Steak
+[![GitHub Streak](https://streak-stats.demolab.com?user=stknguyn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
+ <br>
+#
