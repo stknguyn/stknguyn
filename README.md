@@ -22,7 +22,7 @@ Hi there! I'm an IT student in the process of learning about the "bug and code" 
 
 #
 
-### Stats
+### 📊 Stats 📊
 ![Stknguyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=stknguyn&show_icons=true&theme=transparent&hide_border=true&card_width=700)
 <br>
 #
