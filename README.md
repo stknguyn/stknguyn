@@ -7,7 +7,7 @@ Hi there! I'm an IT student in the process of learning about the "bug and code" 
 ### :evergreen_tree: Github Steak
 [![GitHub Streak](https://streak-stats.demolab.com?user=stknguyn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
  <br>
-
+#
  ### :card_file_box: Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
