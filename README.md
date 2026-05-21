@@ -16,15 +16,3 @@ Hi there! I'm an IT student in the process of learning about the "bug and code" 
 <img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kaggle/kaggle-original.svg" />
 
 <br>
-
-#
-
-### 📊 Stats 📊
-![Stknguyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=stknguyn&show_icons=true&theme=transparent&hide_border=true&card_width=700)
-<br>
-#
-
-### :evergreen_tree: Github Steak
-[![Stknguyn's GitHub Streak](https://streak-stats.demolab.com?user=stknguyn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
- <br>
-#
